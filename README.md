@@ -23,6 +23,7 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Mac-Janitor](https://github.com/Mac-Janitor)
 - [Maiq-The-Dude](https://github.com/Maiq-The-Dude)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
