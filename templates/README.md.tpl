@@ -1,5 +1,5 @@
 ### Hi there 👋. I am Albert Sanchez. 
-#### By day, I am a application developer that is working on business analytics(temp). By night, I am working on side projects. In the afternoons, I enjoy walking around or laying down reading a good manga. I recently decided to pick more coding related side projects, and so here we are. Please code review my work. If you have any suggestions to tweak something or improve its performance let me know. I am open to suggestions just post an Issue.
+#### By day, I am a application developer that is working on business analytics(temp). By night, I am working on side projects. In the afternoons, I enjoy walking around or laying down reading a good manga or light novel. I recently decided to pick more coding related side projects, and so here we are. Please code review my work. If you have any suggestions to tweak something or improve its performance let me know. I am open to suggestions just post an Issue.
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
