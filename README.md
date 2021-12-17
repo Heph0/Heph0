@@ -19,7 +19,7 @@
 #### 🔨 My recent Pull Requests
 
 - [MenuSettings #7](https://github.com/Heph0/Survival/pull/11) on [Heph0/Survival](https://github.com/Heph0/Survival) (2 weeks ago)
-- [2021 november release 0.01](https://github.com/Heph0/Survival/pull/8) on [Heph0/Survival](https://github.com/Heph0/Survival) (2 weeks ago)
+- [2021 november release 0.01](https://github.com/Heph0/Survival/pull/8) on [Heph0/Survival](https://github.com/Heph0/Survival) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
