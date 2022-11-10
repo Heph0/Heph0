@@ -26,7 +26,6 @@
 
 #### 👯 Check out some of my recent followers
 
-- [formidablae](https://github.com/formidablae)
 - [Mac-Janitor](https://github.com/Mac-Janitor)
 - [Maiq-The-Dude](https://github.com/Maiq-The-Dude)
 
