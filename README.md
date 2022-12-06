@@ -3,7 +3,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Heph0/Survivalv0](https://github.com/Heph0/Survivalv0) - This is the WebGL version of the game &#39;Survival&#39; made by unity. Currently in development and this contains the build results of the current release (1 year ago)
 
 #### 🌱 My latest projects
 
